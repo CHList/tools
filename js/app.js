@@ -69,9 +69,4 @@ function loadTool(url) {
         $("#content").addClass('myIframe');
     }
     $("#content").html('<iframe id="iframe" src="' + url + '" frameborder="0"></iframe>');
-    loadScrollbar();
-}
-
-function loadScrollbar(){
-    $('#iframe').perfectScrollbar();
 }
