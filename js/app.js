@@ -69,5 +69,5 @@ function loadTool(url) {
         $("#content").addClass('myIframe');
     }
     $("#content").html('<iframe src="' + url + '" frameborder="0"></iframe>');
-    $('#content iframe').contentWindow.focus();
+    $iframe[0].contentWindow.focus();
 }
