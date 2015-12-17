@@ -70,3 +70,7 @@ function loadTool(url) {
     }
     $("#content").html('<iframe id="iframe" src="' + url + '" frameborder="0"></iframe>');
 }
+
+$(function(){
+    $('#content').perfectScrollbar();
+});
