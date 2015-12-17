@@ -72,5 +72,5 @@ function loadTool(url) {
 }
 
 $(function(){
-    $('#content').perfectScrollbar();
+    $('#iframe').perfectScrollbar();
 });
