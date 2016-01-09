@@ -1,4 +1,4 @@
-# Clicker Heroes Tools
+# [Clicker Heroes Tools](http://www.chlist.github.io)
 
 Ease of access website for [Clicker Heroes](http://www.clickerheroes).
 Allows users to browse and use Calculators, Optimizers and such built for the game without having to go between different tabs.
