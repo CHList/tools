@@ -59,8 +59,8 @@ $.each(tools, function(i, tool){
     );
 });
 
-$('.side-nav>li>a').on('click', function() {
-    event.preventDefault();
+$('.side-nav>li>a').on('click', function(e) {
+    e.preventDefault();
     loadTool($(this).attr("href"));
 });
 
