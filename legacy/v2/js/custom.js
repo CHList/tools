@@ -1,5 +1,5 @@
-    $('.nav>li>a').on('click', function() {
-        event.preventDefault();
+    $('.nav>li>a').on('click', function(e) {
+        e.preventDefault();
         loadTool($(this).attr("href"));
     });
     $('#home').on('click', function() {
