@@ -1,4 +1,4 @@
-# [Clicker Heroes Tools](http://itsuzair.github.io/tools)
+# [Clicker Heroes Tools](http://uhzair.github.io/tools)
 
 Ease of access website for [Clicker Heroes](http://www.clickerheroes.com).
 Allows users to browse and use Calculators, Optimizers and such built for the game without having to go between different tabs.
